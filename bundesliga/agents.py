@@ -5,6 +5,7 @@ import math
 import os
 import urllib.error
 import urllib.request
+from urllib.parse import urlsplit
 
 ROLES = {
  'statistician':'统计分析：德甲历史、攻防、主客场、模型局限。',
@@ -76,10 +77,18 @@ def query(role, model_name, packet, peers, endpoint, key):
         return {'role':role,'model':model_name,'status':'failed','error':type(err).__name__,'probabilities':None}
 
 
+def resolve_endpoint(config):
+    endpoint=os.environ.get('BUNDESLIGA_LLM_BASE_URL') or config.get('base_url') or 'https://api.openai.com/v1'
+    parsed=urlsplit(endpoint)
+    if parsed.scheme!='https' or not parsed.hostname or parsed.username or parsed.password or parsed.query or parsed.fragment:
+        raise ValueError('Use a valid HTTPS API base URL without credentials, query or fragment')
+    if parsed.hostname=='platform.deepseek.com' or parsed.path.rstrip('/').endswith('/api_keys'):
+        raise ValueError('DeepSeek API key management page is not an API endpoint; use https://api.deepseek.com')
+    return endpoint.rstrip('/')
+
+
 def run_llm(packet, config):
-    endpoint=os.environ.get('BUNDESLIGA_LLM_BASE_URL','https://api.openai.com/v1')
-    if not endpoint.startswith('https://'):
-        raise ValueError('HTTPS LLM endpoint required')
+    endpoint=resolve_endpoint(config)
     key=os.environ.get('BUNDESLIGA_LLM_API_KEY')
     if not key:
         raise ValueError('BUNDESLIGA_LLM_API_KEY is not configured; select local mode explicitly')

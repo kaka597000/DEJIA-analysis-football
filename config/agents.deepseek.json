@@ -1,0 +1,10 @@
+{
+  "base_url": "https://api.deepseek.com",
+  "roles": {
+    "statistician": "deepseek-flash",
+    "tactician": "deepseek-flash",
+    "market_analyst": "deepseek-flash",
+    "news_analyst": "deepseek-flash",
+    "risk_assessor": "deepseek-flash"
+  }
+}

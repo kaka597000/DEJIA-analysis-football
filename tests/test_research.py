@@ -8,7 +8,7 @@ import unittest
 from unittest.mock import patch
 from urllib.error import HTTPError
 from bundesliga import model, store
-from bundesliga.agents import query, run_llm, validate_response, ROLES
+from bundesliga.agents import query, run_llm, validate_response, resolve_endpoint, ROLES
 from bundesliga.pipeline import analyze
 from bundesliga.upset import screen
 from bundesliga.backtest import metrics
@@ -146,6 +146,17 @@ class UpsetTests(unittest.TestCase):
 
 
 class AgentTests(unittest.TestCase):
+    def test_deepseek_config_and_environment_priority(self):
+        with patch.dict(os.environ,{},clear=True):
+            self.assertEqual(resolve_endpoint({'base_url':'https://api.deepseek.com'}),'https://api.deepseek.com')
+            self.assertEqual(resolve_endpoint({}),'https://api.openai.com/v1')
+        with patch.dict(os.environ,{'BUNDESLIGA_LLM_BASE_URL':'https://example.test/v1'}):
+            self.assertEqual(resolve_endpoint({'base_url':'https://api.deepseek.com'}),'https://example.test/v1')
+    def test_rejects_key_management_page_before_sending_secret(self):
+        with patch.dict(os.environ,{'BUNDESLIGA_LLM_BASE_URL':'https://platform.deepseek.com/api_keys'}):
+            with self.assertRaises(ValueError): resolve_endpoint({})
+        with patch.dict(os.environ,{'BUNDESLIGA_LLM_BASE_URL':'https://user:password@api.deepseek.com'}):
+            with self.assertRaises(ValueError): resolve_endpoint({})
     def test_rejects_unknown_citations_and_bad_probabilities(self):
         data={'status':'analyzed','probabilities':{'H':.4,'D':.3,'A':.3},'evidence_ids':['fake'],
               'findings':[],'counterarguments':[],'missing':[]}

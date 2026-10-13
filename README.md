@@ -68,6 +68,8 @@ RSS原文先存为未匹配、未审核资料；不会把新闻自动绑定到�
 
 ## 外部多智能体模式
 
+使用DeepSeek时可直接采用 `config/agents.deepseek.json`，密钥安全绑定与运行命令见[DeepSeek配置说明](docs/deepseek-setup.md)。JSON的 `base_url` 提供服务地址，环境变量 `BUNDESLIGA_LLM_BASE_URL` 优先；密钥只来自环境。
+
 ```bash
 cp config/agents.example.json work/agents.json
 # 编辑work/agents.json：每个角色填写外部服务实际支持的模型ID
