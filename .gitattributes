@@ -1,0 +1,3 @@
+# Preserve original provider bytes and avoid code-style checks on immutable snapshots.
+data/raw/** -text -diff -whitespace linguist-generated=true
+*.sqlite -text -diff

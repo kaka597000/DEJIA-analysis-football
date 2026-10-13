@@ -1,0 +1,10 @@
+{
+  "collection_agent": {"codex_model": "gpt-6-luna", "task": "收集可追溯德甲赛事及赛前证据，不杜撰"},
+  "roles": {
+    "statistician": "REPLACE_WITH_PROVIDER_MODEL_ID",
+    "tactician": "REPLACE_WITH_PROVIDER_MODEL_ID",
+    "market_analyst": "REPLACE_WITH_PROVIDER_MODEL_ID",
+    "news_analyst": "REPLACE_WITH_PROVIDER_MODEL_ID",
+    "risk_assessor": "REPLACE_WITH_PROVIDER_MODEL_ID"
+  }
+}

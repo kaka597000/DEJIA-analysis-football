@@ -1,0 +1,958 @@
+{
+  "matches": 3411,
+  "seasons": {
+    "2015-2016": {
+      "matches": 306,
+      "teams": 18,
+      "complete": true,
+      "team_counts": {
+        "Mainz": {
+          "home": 17,
+          "away": 17
+        },
+        "Leverkusen": {
+          "home": 17,
+          "away": 17
+        },
+        "Ingolstadt": {
+          "home": 17,
+          "away": 17
+        },
+        "Hamburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Darmstadt": {
+          "home": 17,
+          "away": 17
+        },
+        "Hannover": {
+          "home": 17,
+          "away": 17
+        },
+        "M'gladbach": {
+          "home": 17,
+          "away": 17
+        },
+        "Hoffenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "Augsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Schalke 04": {
+          "home": 17,
+          "away": 17
+        },
+        "Ein Frankfurt": {
+          "home": 17,
+          "away": 17
+        },
+        "FC Koln": {
+          "home": 17,
+          "away": 17
+        },
+        "Wolfsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Werder Bremen": {
+          "home": 17,
+          "away": 17
+        },
+        "Bayern Munich": {
+          "home": 17,
+          "away": 17
+        },
+        "Hertha": {
+          "home": 17,
+          "away": 17
+        },
+        "Stuttgart": {
+          "home": 17,
+          "away": 17
+        },
+        "Dortmund": {
+          "home": 17,
+          "away": 17
+        }
+      }
+    },
+    "2016-2017": {
+      "matches": 306,
+      "teams": 18,
+      "complete": true,
+      "team_counts": {
+        "Ingolstadt": {
+          "home": 17,
+          "away": 17
+        },
+        "Leverkusen": {
+          "home": 17,
+          "away": 17
+        },
+        "Mainz": {
+          "home": 17,
+          "away": 17
+        },
+        "Hamburg": {
+          "home": 17,
+          "away": 17
+        },
+        "RB Leipzig": {
+          "home": 17,
+          "away": 17
+        },
+        "M'gladbach": {
+          "home": 17,
+          "away": 17
+        },
+        "Darmstadt": {
+          "home": 17,
+          "away": 17
+        },
+        "Hoffenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "Augsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Ein Frankfurt": {
+          "home": 17,
+          "away": 17
+        },
+        "Schalke 04": {
+          "home": 17,
+          "away": 17
+        },
+        "Freiburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Wolfsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Werder Bremen": {
+          "home": 17,
+          "away": 17
+        },
+        "Bayern Munich": {
+          "home": 17,
+          "away": 17
+        },
+        "Hertha": {
+          "home": 17,
+          "away": 17
+        },
+        "FC Koln": {
+          "home": 17,
+          "away": 17
+        },
+        "Dortmund": {
+          "home": 17,
+          "away": 17
+        }
+      }
+    },
+    "2017-2018": {
+      "matches": 306,
+      "teams": 18,
+      "complete": true,
+      "team_counts": {
+        "Mainz": {
+          "home": 17,
+          "away": 17
+        },
+        "Leverkusen": {
+          "home": 17,
+          "away": 17
+        },
+        "Hamburg": {
+          "home": 17,
+          "away": 17
+        },
+        "RB Leipzig": {
+          "home": 17,
+          "away": 17
+        },
+        "Hannover": {
+          "home": 17,
+          "away": 17
+        },
+        "M'gladbach": {
+          "home": 17,
+          "away": 17
+        },
+        "Hoffenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "Augsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Schalke 04": {
+          "home": 17,
+          "away": 17
+        },
+        "Freiburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Ein Frankfurt": {
+          "home": 17,
+          "away": 17
+        },
+        "FC Koln": {
+          "home": 17,
+          "away": 17
+        },
+        "Wolfsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Werder Bremen": {
+          "home": 17,
+          "away": 17
+        },
+        "Bayern Munich": {
+          "home": 17,
+          "away": 17
+        },
+        "Hertha": {
+          "home": 17,
+          "away": 17
+        },
+        "Stuttgart": {
+          "home": 17,
+          "away": 17
+        },
+        "Dortmund": {
+          "home": 17,
+          "away": 17
+        }
+      }
+    },
+    "2018-2019": {
+      "matches": 306,
+      "teams": 18,
+      "complete": true,
+      "team_counts": {
+        "Mainz": {
+          "home": 17,
+          "away": 17
+        },
+        "Leverkusen": {
+          "home": 17,
+          "away": 17
+        },
+        "Nurnberg": {
+          "home": 17,
+          "away": 17
+        },
+        "RB Leipzig": {
+          "home": 17,
+          "away": 17
+        },
+        "M'gladbach": {
+          "home": 17,
+          "away": 17
+        },
+        "Hannover": {
+          "home": 17,
+          "away": 17
+        },
+        "Fortuna Dusseldorf": {
+          "home": 17,
+          "away": 17
+        },
+        "Hoffenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "Freiburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Ein Frankfurt": {
+          "home": 17,
+          "away": 17
+        },
+        "Augsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Schalke 04": {
+          "home": 17,
+          "away": 17
+        },
+        "Wolfsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Werder Bremen": {
+          "home": 17,
+          "away": 17
+        },
+        "Bayern Munich": {
+          "home": 17,
+          "away": 17
+        },
+        "Hertha": {
+          "home": 17,
+          "away": 17
+        },
+        "Stuttgart": {
+          "home": 17,
+          "away": 17
+        },
+        "Dortmund": {
+          "home": 17,
+          "away": 17
+        }
+      }
+    },
+    "2019-2020": {
+      "matches": 306,
+      "teams": 18,
+      "complete": true,
+      "team_counts": {
+        "Mainz": {
+          "home": 17,
+          "away": 17
+        },
+        "Leverkusen": {
+          "home": 17,
+          "away": 17
+        },
+        "Union Berlin": {
+          "home": 17,
+          "away": 17
+        },
+        "RB Leipzig": {
+          "home": 17,
+          "away": 17
+        },
+        "Fortuna Dusseldorf": {
+          "home": 17,
+          "away": 17
+        },
+        "M'gladbach": {
+          "home": 17,
+          "away": 17
+        },
+        "Hoffenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "Augsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Paderborn": {
+          "home": 17,
+          "away": 17
+        },
+        "Freiburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Schalke 04": {
+          "home": 17,
+          "away": 17
+        },
+        "Ein Frankfurt": {
+          "home": 17,
+          "away": 17
+        },
+        "Wolfsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Werder Bremen": {
+          "home": 17,
+          "away": 17
+        },
+        "Bayern Munich": {
+          "home": 17,
+          "away": 17
+        },
+        "Hertha": {
+          "home": 17,
+          "away": 17
+        },
+        "FC Koln": {
+          "home": 17,
+          "away": 17
+        },
+        "Dortmund": {
+          "home": 17,
+          "away": 17
+        }
+      }
+    },
+    "2020-2021": {
+      "matches": 306,
+      "teams": 18,
+      "complete": true,
+      "team_counts": {
+        "Mainz": {
+          "home": 17,
+          "away": 17
+        },
+        "Leverkusen": {
+          "home": 17,
+          "away": 17
+        },
+        "Union Berlin": {
+          "home": 17,
+          "away": 17
+        },
+        "RB Leipzig": {
+          "home": 17,
+          "away": 17
+        },
+        "M'gladbach": {
+          "home": 17,
+          "away": 17
+        },
+        "Bielefeld": {
+          "home": 17,
+          "away": 17
+        },
+        "Hoffenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "Augsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Schalke 04": {
+          "home": 17,
+          "away": 17
+        },
+        "Freiburg": {
+          "home": 17,
+          "away": 17
+        },
+        "FC Koln": {
+          "home": 17,
+          "away": 17
+        },
+        "Ein Frankfurt": {
+          "home": 17,
+          "away": 17
+        },
+        "Wolfsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Werder Bremen": {
+          "home": 17,
+          "away": 17
+        },
+        "Bayern Munich": {
+          "home": 17,
+          "away": 17
+        },
+        "Hertha": {
+          "home": 17,
+          "away": 17
+        },
+        "Stuttgart": {
+          "home": 17,
+          "away": 17
+        },
+        "Dortmund": {
+          "home": 17,
+          "away": 17
+        }
+      }
+    },
+    "2021-2022": {
+      "matches": 306,
+      "teams": 18,
+      "complete": true,
+      "team_counts": {
+        "Mainz": {
+          "home": 17,
+          "away": 17
+        },
+        "Leverkusen": {
+          "home": 17,
+          "away": 17
+        },
+        "Union Berlin": {
+          "home": 17,
+          "away": 17
+        },
+        "RB Leipzig": {
+          "home": 17,
+          "away": 17
+        },
+        "M'gladbach": {
+          "home": 17,
+          "away": 17
+        },
+        "Bielefeld": {
+          "home": 17,
+          "away": 17
+        },
+        "Hoffenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "Augsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Freiburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Ein Frankfurt": {
+          "home": 17,
+          "away": 17
+        },
+        "FC Koln": {
+          "home": 17,
+          "away": 17
+        },
+        "Greuther Furth": {
+          "home": 17,
+          "away": 17
+        },
+        "Wolfsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Bayern Munich": {
+          "home": 17,
+          "away": 17
+        },
+        "Hertha": {
+          "home": 17,
+          "away": 17
+        },
+        "Stuttgart": {
+          "home": 17,
+          "away": 17
+        },
+        "Bochum": {
+          "home": 17,
+          "away": 17
+        },
+        "Dortmund": {
+          "home": 17,
+          "away": 17
+        }
+      }
+    },
+    "2022-2023": {
+      "matches": 306,
+      "teams": 18,
+      "complete": true,
+      "team_counts": {
+        "Mainz": {
+          "home": 17,
+          "away": 17
+        },
+        "Leverkusen": {
+          "home": 17,
+          "away": 17
+        },
+        "Union Berlin": {
+          "home": 17,
+          "away": 17
+        },
+        "Stuttgart": {
+          "home": 17,
+          "away": 17
+        },
+        "RB Leipzig": {
+          "home": 17,
+          "away": 17
+        },
+        "M'gladbach": {
+          "home": 17,
+          "away": 17
+        },
+        "Hoffenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "Ein Frankfurt": {
+          "home": 17,
+          "away": 17
+        },
+        "Freiburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Augsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Schalke 04": {
+          "home": 17,
+          "away": 17
+        },
+        "Wolfsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Werder Bremen": {
+          "home": 17,
+          "away": 17
+        },
+        "Bayern Munich": {
+          "home": 17,
+          "away": 17
+        },
+        "Hertha": {
+          "home": 17,
+          "away": 17
+        },
+        "FC Koln": {
+          "home": 17,
+          "away": 17
+        },
+        "Bochum": {
+          "home": 17,
+          "away": 17
+        },
+        "Dortmund": {
+          "home": 17,
+          "away": 17
+        }
+      }
+    },
+    "2023-2024": {
+      "matches": 306,
+      "teams": 18,
+      "complete": true,
+      "team_counts": {
+        "Mainz": {
+          "home": 17,
+          "away": 17
+        },
+        "Leverkusen": {
+          "home": 17,
+          "away": 17
+        },
+        "Union Berlin": {
+          "home": 17,
+          "away": 17
+        },
+        "RB Leipzig": {
+          "home": 17,
+          "away": 17
+        },
+        "Heidenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "M'gladbach": {
+          "home": 17,
+          "away": 17
+        },
+        "Darmstadt": {
+          "home": 17,
+          "away": 17
+        },
+        "Hoffenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "Freiburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Augsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Ein Frankfurt": {
+          "home": 17,
+          "away": 17
+        },
+        "FC Koln": {
+          "home": 17,
+          "away": 17
+        },
+        "Wolfsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Werder Bremen": {
+          "home": 17,
+          "away": 17
+        },
+        "Bayern Munich": {
+          "home": 17,
+          "away": 17
+        },
+        "Stuttgart": {
+          "home": 17,
+          "away": 17
+        },
+        "Bochum": {
+          "home": 17,
+          "away": 17
+        },
+        "Dortmund": {
+          "home": 17,
+          "away": 17
+        }
+      }
+    },
+    "2024-2025": {
+      "matches": 306,
+      "teams": 18,
+      "complete": true,
+      "team_counts": {
+        "Mainz": {
+          "home": 17,
+          "away": 17
+        },
+        "Leverkusen": {
+          "home": 17,
+          "away": 17
+        },
+        "Union Berlin": {
+          "home": 17,
+          "away": 17
+        },
+        "RB Leipzig": {
+          "home": 17,
+          "away": 17
+        },
+        "M'gladbach": {
+          "home": 17,
+          "away": 17
+        },
+        "Heidenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "St Pauli": {
+          "home": 17,
+          "away": 17
+        },
+        "Hoffenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "Augsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Freiburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Ein Frankfurt": {
+          "home": 17,
+          "away": 17
+        },
+        "Holstein Kiel": {
+          "home": 17,
+          "away": 17
+        },
+        "Wolfsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Werder Bremen": {
+          "home": 17,
+          "away": 17
+        },
+        "Bayern Munich": {
+          "home": 17,
+          "away": 17
+        },
+        "Stuttgart": {
+          "home": 17,
+          "away": 17
+        },
+        "Bochum": {
+          "home": 17,
+          "away": 17
+        },
+        "Dortmund": {
+          "home": 17,
+          "away": 17
+        }
+      }
+    },
+    "2025-2026": {
+      "matches": 306,
+      "teams": 18,
+      "complete": true,
+      "team_counts": {
+        "Mainz": {
+          "home": 17,
+          "away": 17
+        },
+        "Leverkusen": {
+          "home": 17,
+          "away": 17
+        },
+        "Union Berlin": {
+          "home": 17,
+          "away": 17
+        },
+        "Hamburg": {
+          "home": 17,
+          "away": 17
+        },
+        "RB Leipzig": {
+          "home": 17,
+          "away": 17
+        },
+        "Heidenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "M'gladbach": {
+          "home": 17,
+          "away": 17
+        },
+        "St Pauli": {
+          "home": 17,
+          "away": 17
+        },
+        "Hoffenheim": {
+          "home": 17,
+          "away": 17
+        },
+        "Ein Frankfurt": {
+          "home": 17,
+          "away": 17
+        },
+        "Freiburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Augsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "FC Koln": {
+          "home": 17,
+          "away": 17
+        },
+        "Wolfsburg": {
+          "home": 17,
+          "away": 17
+        },
+        "Werder Bremen": {
+          "home": 17,
+          "away": 17
+        },
+        "Bayern Munich": {
+          "home": 17,
+          "away": 17
+        },
+        "Stuttgart": {
+          "home": 17,
+          "away": 17
+        },
+        "Dortmund": {
+          "home": 17,
+          "away": 17
+        }
+      }
+    },
+    "2026-2027": {
+      "matches": 45,
+      "teams": 18,
+      "complete": false,
+      "team_counts": {
+        "Mainz": {
+          "home": 3,
+          "away": 2
+        },
+        "Leverkusen": {
+          "home": 2,
+          "away": 3
+        },
+        "Hamburg": {
+          "home": 2,
+          "away": 3
+        },
+        "Union Berlin": {
+          "home": 3,
+          "away": 2
+        },
+        "RB Leipzig": {
+          "home": 3,
+          "away": 2
+        },
+        "M'gladbach": {
+          "home": 2,
+          "away": 3
+        },
+        "Hoffenheim": {
+          "home": 3,
+          "away": 2
+        },
+        "Ein Frankfurt": {
+          "home": 2,
+          "away": 3
+        },
+        "Paderborn": {
+          "home": 3,
+          "away": 2
+        },
+        "Freiburg": {
+          "home": 3,
+          "away": 2
+        },
+        "FC Koln": {
+          "home": 3,
+          "away": 2
+        },
+        "Augsburg": {
+          "home": 3,
+          "away": 2
+        },
+        "Schalke 04": {
+          "home": 2,
+          "away": 3
+        },
+        "Werder Bremen": {
+          "home": 2,
+          "away": 3
+        },
+        "Bayern Munich": {
+          "home": 2,
+          "away": 3
+        },
+        "Stuttgart": {
+          "home": 2,
+          "away": 3
+        },
+        "Elversberg": {
+          "home": 2,
+          "away": 3
+        },
+        "Dortmund": {
+          "home": 3,
+          "away": 2
+        }
+      }
+    }
+  },
+  "issues": [],
+  "integrity": "ok",
+  "historical_odds": 18718,
+  "evidence": 0,
+  "status": "pass"
+}

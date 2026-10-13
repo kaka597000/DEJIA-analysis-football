@@ -1,0 +1,1321 @@
+{
+  "generated_at": "2026-10-13T01:51:39Z",
+  "expected_seasons": 11,
+  "collected_seasons": 11,
+  "season_counts": {
+    "2015-2016": 306,
+    "2016-2017": 306,
+    "2017-2018": 306,
+    "2018-2019": 306,
+    "2019-2020": 306,
+    "2020-2021": 306,
+    "2021-2022": 306,
+    "2022-2023": 306,
+    "2023-2024": 306,
+    "2024-2025": 306,
+    "2025-2026": 306
+  },
+  "expected_rows_per_season": 306,
+  "seasons_at_expected_count": 11,
+  "total_matches": 3366,
+  "field_coverage": {
+    "1XBA": {
+      "present_rows": 297,
+      "missing_rows": 3069,
+      "coverage_pct": 8.824
+    },
+    "1XBCA": {
+      "present_rows": 306,
+      "missing_rows": 3060,
+      "coverage_pct": 9.091
+    },
+    "1XBCD": {
+      "present_rows": 306,
+      "missing_rows": 3060,
+      "coverage_pct": 9.091
+    },
+    "1XBCH": {
+      "present_rows": 306,
+      "missing_rows": 3060,
+      "coverage_pct": 9.091
+    },
+    "1XBD": {
+      "present_rows": 297,
+      "missing_rows": 3069,
+      "coverage_pct": 8.824
+    },
+    "1XBH": {
+      "present_rows": 297,
+      "missing_rows": 3069,
+      "coverage_pct": 8.824
+    },
+    "AC": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "AF": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "AHCh": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AHh": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AR": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "AS": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "AST": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "AY": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "Avg<2.5": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "Avg>2.5": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgA": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgAHA": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgAHH": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgC<2.5": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgC>2.5": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgCA": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgCAHA": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgCAHH": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgCD": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgCH": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgD": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgH": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AwayTeam": {
+      "present_rows": 3366,
+      "missing_rows": 0,
+      "coverage_pct": 100.0
+    },
+    "B365<2.5": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "B365>2.5": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "B365A": {
+      "present_rows": 3366,
+      "missing_rows": 0,
+      "coverage_pct": 100.0
+    },
+    "B365AHA": {
+      "present_rows": 2141,
+      "missing_rows": 1225,
+      "coverage_pct": 63.607
+    },
+    "B365AHH": {
+      "present_rows": 2141,
+      "missing_rows": 1225,
+      "coverage_pct": 63.607
+    },
+    "B365C<2.5": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "B365C>2.5": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "B365CA": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "B365CAHA": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "B365CAHH": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "B365CD": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "B365CH": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "B365D": {
+      "present_rows": 3366,
+      "missing_rows": 0,
+      "coverage_pct": 100.0
+    },
+    "B365H": {
+      "present_rows": 3366,
+      "missing_rows": 0,
+      "coverage_pct": 100.0
+    },
+    "BFA": {
+      "present_rows": 304,
+      "missing_rows": 3062,
+      "coverage_pct": 9.031
+    },
+    "BFCA": {
+      "present_rows": 306,
+      "missing_rows": 3060,
+      "coverage_pct": 9.091
+    },
+    "BFCD": {
+      "present_rows": 306,
+      "missing_rows": 3060,
+      "coverage_pct": 9.091
+    },
+    "BFCH": {
+      "present_rows": 306,
+      "missing_rows": 3060,
+      "coverage_pct": 9.091
+    },
+    "BFD": {
+      "present_rows": 304,
+      "missing_rows": 3062,
+      "coverage_pct": 9.031
+    },
+    "BFDA": {
+      "present_rows": 304,
+      "missing_rows": 3062,
+      "coverage_pct": 9.031
+    },
+    "BFDCA": {
+      "present_rows": 298,
+      "missing_rows": 3068,
+      "coverage_pct": 8.853
+    },
+    "BFDCD": {
+      "present_rows": 298,
+      "missing_rows": 3068,
+      "coverage_pct": 8.853
+    },
+    "BFDCH": {
+      "present_rows": 298,
+      "missing_rows": 3068,
+      "coverage_pct": 8.853
+    },
+    "BFDD": {
+      "present_rows": 304,
+      "missing_rows": 3062,
+      "coverage_pct": 9.031
+    },
+    "BFDH": {
+      "present_rows": 304,
+      "missing_rows": 3062,
+      "coverage_pct": 9.031
+    },
+    "BFE<2.5": {
+      "present_rows": 589,
+      "missing_rows": 2777,
+      "coverage_pct": 17.499
+    },
+    "BFE>2.5": {
+      "present_rows": 589,
+      "missing_rows": 2777,
+      "coverage_pct": 17.499
+    },
+    "BFEA": {
+      "present_rows": 594,
+      "missing_rows": 2772,
+      "coverage_pct": 17.647
+    },
+    "BFEAHA": {
+      "present_rows": 593,
+      "missing_rows": 2773,
+      "coverage_pct": 17.617
+    },
+    "BFEAHH": {
+      "present_rows": 593,
+      "missing_rows": 2773,
+      "coverage_pct": 17.617
+    },
+    "BFEC<2.5": {
+      "present_rows": 594,
+      "missing_rows": 2772,
+      "coverage_pct": 17.647
+    },
+    "BFEC>2.5": {
+      "present_rows": 594,
+      "missing_rows": 2772,
+      "coverage_pct": 17.647
+    },
+    "BFECA": {
+      "present_rows": 594,
+      "missing_rows": 2772,
+      "coverage_pct": 17.647
+    },
+    "BFECAHA": {
+      "present_rows": 593,
+      "missing_rows": 2773,
+      "coverage_pct": 17.617
+    },
+    "BFECAHH": {
+      "present_rows": 593,
+      "missing_rows": 2773,
+      "coverage_pct": 17.617
+    },
+    "BFECD": {
+      "present_rows": 594,
+      "missing_rows": 2772,
+      "coverage_pct": 17.647
+    },
+    "BFECH": {
+      "present_rows": 594,
+      "missing_rows": 2772,
+      "coverage_pct": 17.647
+    },
+    "BFED": {
+      "present_rows": 594,
+      "missing_rows": 2772,
+      "coverage_pct": 17.647
+    },
+    "BFEH": {
+      "present_rows": 594,
+      "missing_rows": 2772,
+      "coverage_pct": 17.647
+    },
+    "BFH": {
+      "present_rows": 304,
+      "missing_rows": 3062,
+      "coverage_pct": 9.031
+    },
+    "BMGMA": {
+      "present_rows": 303,
+      "missing_rows": 3063,
+      "coverage_pct": 9.002
+    },
+    "BMGMCA": {
+      "present_rows": 306,
+      "missing_rows": 3060,
+      "coverage_pct": 9.091
+    },
+    "BMGMCD": {
+      "present_rows": 306,
+      "missing_rows": 3060,
+      "coverage_pct": 9.091
+    },
+    "BMGMCH": {
+      "present_rows": 306,
+      "missing_rows": 3060,
+      "coverage_pct": 9.091
+    },
+    "BMGMD": {
+      "present_rows": 303,
+      "missing_rows": 3063,
+      "coverage_pct": 9.002
+    },
+    "BMGMH": {
+      "present_rows": 303,
+      "missing_rows": 3063,
+      "coverage_pct": 9.002
+    },
+    "BVA": {
+      "present_rows": 303,
+      "missing_rows": 3063,
+      "coverage_pct": 9.002
+    },
+    "BVCA": {
+      "present_rows": 298,
+      "missing_rows": 3068,
+      "coverage_pct": 8.853
+    },
+    "BVCD": {
+      "present_rows": 298,
+      "missing_rows": 3068,
+      "coverage_pct": 8.853
+    },
+    "BVCH": {
+      "present_rows": 298,
+      "missing_rows": 3068,
+      "coverage_pct": 8.853
+    },
+    "BVD": {
+      "present_rows": 303,
+      "missing_rows": 3063,
+      "coverage_pct": 9.002
+    },
+    "BVH": {
+      "present_rows": 303,
+      "missing_rows": 3063,
+      "coverage_pct": 9.002
+    },
+    "BWA": {
+      "present_rows": 3240,
+      "missing_rows": 126,
+      "coverage_pct": 96.257
+    },
+    "BWCA": {
+      "present_rows": 2016,
+      "missing_rows": 1350,
+      "coverage_pct": 59.893
+    },
+    "BWCD": {
+      "present_rows": 2016,
+      "missing_rows": 1350,
+      "coverage_pct": 59.893
+    },
+    "BWCH": {
+      "present_rows": 2016,
+      "missing_rows": 1350,
+      "coverage_pct": 59.893
+    },
+    "BWD": {
+      "present_rows": 3240,
+      "missing_rows": 126,
+      "coverage_pct": 96.257
+    },
+    "BWH": {
+      "present_rows": 3240,
+      "missing_rows": 126,
+      "coverage_pct": 96.257
+    },
+    "Bb1X2": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbAH": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbAHh": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbAv<2.5": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbAv>2.5": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbAvA": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbAvAHA": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbAvAHH": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbAvD": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbAvH": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbMx<2.5": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbMx>2.5": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbMxA": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbMxAHA": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbMxAHH": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbMxD": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbMxH": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "BbOU": {
+      "present_rows": 1224,
+      "missing_rows": 2142,
+      "coverage_pct": 36.364
+    },
+    "CLA": {
+      "present_rows": 226,
+      "missing_rows": 3140,
+      "coverage_pct": 6.714
+    },
+    "CLCA": {
+      "present_rows": 213,
+      "missing_rows": 3153,
+      "coverage_pct": 6.328
+    },
+    "CLCD": {
+      "present_rows": 213,
+      "missing_rows": 3153,
+      "coverage_pct": 6.328
+    },
+    "CLCH": {
+      "present_rows": 213,
+      "missing_rows": 3153,
+      "coverage_pct": 6.328
+    },
+    "CLD": {
+      "present_rows": 226,
+      "missing_rows": 3140,
+      "coverage_pct": 6.714
+    },
+    "CLH": {
+      "present_rows": 226,
+      "missing_rows": 3140,
+      "coverage_pct": 6.714
+    },
+    "Date": {
+      "present_rows": 3366,
+      "missing_rows": 0,
+      "coverage_pct": 100.0
+    },
+    "Div": {
+      "present_rows": 3366,
+      "missing_rows": 0,
+      "coverage_pct": 100.0
+    },
+    "FTAG": {
+      "present_rows": 3366,
+      "missing_rows": 0,
+      "coverage_pct": 100.0
+    },
+    "FTHG": {
+      "present_rows": 3366,
+      "missing_rows": 0,
+      "coverage_pct": 100.0
+    },
+    "FTR": {
+      "present_rows": 3366,
+      "missing_rows": 0,
+      "coverage_pct": 100.0
+    },
+    "HC": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "HF": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "HR": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "HS": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "HST": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "HTAG": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "HTHG": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "HTR": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "HY": {
+      "present_rows": 3365,
+      "missing_rows": 1,
+      "coverage_pct": 99.97
+    },
+    "HomeTeam": {
+      "present_rows": 3366,
+      "missing_rows": 0,
+      "coverage_pct": 100.0
+    },
+    "IWA": {
+      "present_rows": 2591,
+      "missing_rows": 775,
+      "coverage_pct": 76.976
+    },
+    "IWCA": {
+      "present_rows": 1357,
+      "missing_rows": 2009,
+      "coverage_pct": 40.315
+    },
+    "IWCD": {
+      "present_rows": 1357,
+      "missing_rows": 2009,
+      "coverage_pct": 40.315
+    },
+    "IWCH": {
+      "present_rows": 1357,
+      "missing_rows": 2009,
+      "coverage_pct": 40.315
+    },
+    "IWD": {
+      "present_rows": 2591,
+      "missing_rows": 775,
+      "coverage_pct": 76.976
+    },
+    "IWH": {
+      "present_rows": 2591,
+      "missing_rows": 775,
+      "coverage_pct": 76.976
+    },
+    "LBA": {
+      "present_rows": 1144,
+      "missing_rows": 2222,
+      "coverage_pct": 33.987
+    },
+    "LBCA": {
+      "present_rows": 225,
+      "missing_rows": 3141,
+      "coverage_pct": 6.684
+    },
+    "LBCD": {
+      "present_rows": 225,
+      "missing_rows": 3141,
+      "coverage_pct": 6.684
+    },
+    "LBCH": {
+      "present_rows": 225,
+      "missing_rows": 3141,
+      "coverage_pct": 6.684
+    },
+    "LBD": {
+      "present_rows": 1144,
+      "missing_rows": 2222,
+      "coverage_pct": 33.987
+    },
+    "LBH": {
+      "present_rows": 1144,
+      "missing_rows": 2222,
+      "coverage_pct": 33.987
+    },
+    "Max<2.5": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "Max>2.5": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "MaxA": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "MaxAHA": {
+      "present_rows": 2141,
+      "missing_rows": 1225,
+      "coverage_pct": 63.607
+    },
+    "MaxAHH": {
+      "present_rows": 2141,
+      "missing_rows": 1225,
+      "coverage_pct": 63.607
+    },
+    "MaxC<2.5": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "MaxC>2.5": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "MaxCA": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "MaxCAHA": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "MaxCAHH": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "MaxCD": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "MaxCH": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "MaxD": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "MaxH": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "P<2.5": {
+      "present_rows": 1931,
+      "missing_rows": 1435,
+      "coverage_pct": 57.368
+    },
+    "P>2.5": {
+      "present_rows": 1931,
+      "missing_rows": 1435,
+      "coverage_pct": 57.368
+    },
+    "PAHA": {
+      "present_rows": 1984,
+      "missing_rows": 1382,
+      "coverage_pct": 58.942
+    },
+    "PAHH": {
+      "present_rows": 1984,
+      "missing_rows": 1382,
+      "coverage_pct": 58.942
+    },
+    "PC<2.5": {
+      "present_rows": 1935,
+      "missing_rows": 1431,
+      "coverage_pct": 57.487
+    },
+    "PC>2.5": {
+      "present_rows": 1935,
+      "missing_rows": 1431,
+      "coverage_pct": 57.487
+    },
+    "PCAHA": {
+      "present_rows": 1985,
+      "missing_rows": 1381,
+      "coverage_pct": 58.972
+    },
+    "PCAHH": {
+      "present_rows": 1985,
+      "missing_rows": 1381,
+      "coverage_pct": 58.972
+    },
+    "PSA": {
+      "present_rows": 3209,
+      "missing_rows": 157,
+      "coverage_pct": 95.336
+    },
+    "PSCA": {
+      "present_rows": 3208,
+      "missing_rows": 158,
+      "coverage_pct": 95.306
+    },
+    "PSCD": {
+      "present_rows": 3208,
+      "missing_rows": 158,
+      "coverage_pct": 95.306
+    },
+    "PSCH": {
+      "present_rows": 3208,
+      "missing_rows": 158,
+      "coverage_pct": 95.306
+    },
+    "PSD": {
+      "present_rows": 3209,
+      "missing_rows": 157,
+      "coverage_pct": 95.336
+    },
+    "PSH": {
+      "present_rows": 3209,
+      "missing_rows": 157,
+      "coverage_pct": 95.336
+    },
+    "Time": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "VCA": {
+      "present_rows": 2754,
+      "missing_rows": 612,
+      "coverage_pct": 81.818
+    },
+    "VCCA": {
+      "present_rows": 1530,
+      "missing_rows": 1836,
+      "coverage_pct": 45.455
+    },
+    "VCCD": {
+      "present_rows": 1530,
+      "missing_rows": 1836,
+      "coverage_pct": 45.455
+    },
+    "VCCH": {
+      "present_rows": 1530,
+      "missing_rows": 1836,
+      "coverage_pct": 45.455
+    },
+    "VCD": {
+      "present_rows": 2754,
+      "missing_rows": 612,
+      "coverage_pct": 81.818
+    },
+    "VCH": {
+      "present_rows": 2754,
+      "missing_rows": 612,
+      "coverage_pct": 81.818
+    },
+    "WHA": {
+      "present_rows": 2987,
+      "missing_rows": 379,
+      "coverage_pct": 88.74
+    },
+    "WHCA": {
+      "present_rows": 1764,
+      "missing_rows": 1602,
+      "coverage_pct": 52.406
+    },
+    "WHCD": {
+      "present_rows": 1764,
+      "missing_rows": 1602,
+      "coverage_pct": 52.406
+    },
+    "WHCH": {
+      "present_rows": 1764,
+      "missing_rows": 1602,
+      "coverage_pct": 52.406
+    },
+    "WHD": {
+      "present_rows": 2987,
+      "missing_rows": 379,
+      "coverage_pct": 88.74
+    },
+    "WHH": {
+      "present_rows": 2987,
+      "missing_rows": 379,
+      "coverage_pct": 88.74
+    }
+  },
+  "odds_field_coverage": {
+    "AvgH": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgD": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgA": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "B365H": {
+      "present_rows": 3366,
+      "missing_rows": 0,
+      "coverage_pct": 100.0
+    },
+    "B365D": {
+      "present_rows": 3366,
+      "missing_rows": 0,
+      "coverage_pct": 100.0
+    },
+    "B365A": {
+      "present_rows": 3366,
+      "missing_rows": 0,
+      "coverage_pct": 100.0
+    },
+    "AvgCH": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgCD": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AvgCA": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AHh": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "AHCh": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "B365AHH": {
+      "present_rows": 2141,
+      "missing_rows": 1225,
+      "coverage_pct": 63.607
+    },
+    "B365AHA": {
+      "present_rows": 2141,
+      "missing_rows": 1225,
+      "coverage_pct": 63.607
+    },
+    "B365CAHH": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    },
+    "B365CAHA": {
+      "present_rows": 2142,
+      "missing_rows": 1224,
+      "coverage_pct": 63.636
+    }
+  },
+  "current_season_snapshot": {
+    "season": "2026-2027",
+    "status": "available",
+    "completed_match_count": 45,
+    "output": "data/processed/matches_2026-2027_current.jsonl"
+  },
+  "auxiliary_public_sources": [
+    {
+      "source_name": "DFL English newsroom RSS",
+      "source_url": "https://www.dfl.de/en/feed/",
+      "status": "available",
+      "collected_at": "2026-10-13T01:51:39Z",
+      "raw_file": "data/raw/dfl/news_en.xml",
+      "sha256": "3ff75f9d0c7d3984991dfda36dc3ae333fbb1b9a86fee9ace1fd82eabf1cac15",
+      "bytes": 6916,
+      "expected_content_type": "application/rss+xml"
+    },
+    {
+      "source_name": "OpenLigaDB 2026 Bundesliga match API",
+      "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+      "status": "available",
+      "collected_at": "2026-10-13T01:51:39Z",
+      "raw_file": "data/raw/openligadb/bl1_2026.json",
+      "sha256": "800005cd8e2bda9fcb30c9e17dfdbfb85c7e66255b1661002b980995d0a5bc3d",
+      "bytes": 299650,
+      "expected_content_type": "application/json",
+      "match_count": 306,
+      "finished_match_count": 45,
+      "contains_lineups": false
+    }
+  ],
+  "current_season_independent_crosscheck": {
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "season": "2026-2027",
+    "matched_finished_fixtures": 45,
+    "score_agreements": 45,
+    "score_disagreements": 0,
+    "crosswalk": {
+      "1. FC Köln": "FC Koln",
+      "1. FC Union Berlin": "Union Berlin",
+      "1. FSV Mainz 05": "Mainz",
+      "Bayer 04 Leverkusen": "Leverkusen",
+      "Borussia Dortmund": "Dortmund",
+      "Borussia Mönchengladbach": "M'gladbach",
+      "Eintracht Frankfurt": "Ein Frankfurt",
+      "FC Augsburg": "Augsburg",
+      "FC Bayern München": "Bayern Munich",
+      "FC Schalke 04": "Schalke 04",
+      "Hamburger SV": "Hamburg",
+      "RB Leipzig": "RB Leipzig",
+      "SC Freiburg": "Freiburg",
+      "SC Paderborn 07": "Paderborn",
+      "SV 07 Elversberg": "Elversberg",
+      "SV Werder Bremen": "Werder Bremen",
+      "TSG Hoffenheim": "Hoffenheim",
+      "VfB Stuttgart": "Stuttgart"
+    },
+    "status": "ok"
+  },
+  "duplicate_match_ids": [],
+  "duplicate_match_id_count": 0,
+  "invalid_row_count": 0,
+  "collection_errors": [],
+  "checks": {
+    "all_rows_competition_de1": true,
+    "scores_nonnegative_integers": true,
+    "results_match_scores": true,
+    "unique_match_ids": true,
+    "all_expected_seasons_collected": true,
+    "all_seasons_complete": true,
+    "independent_openfootball_2015_16_scores_agree": true,
+    "independent_openligadb_current_scores_agree": true,
+    "football_data_times_agree_with_openligadb_utc_samples": true
+  },
+  "independent_crosscheck": {
+    "source_url": "https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/de.1.json",
+    "season": "2015-2016",
+    "status": "ok",
+    "openfootball_matches": 306,
+    "matched_fixtures": 306,
+    "score_agreements": 306,
+    "score_disagreements": 0,
+    "raw_file": "data/raw/openfootball/2015-16_de.1.json",
+    "sha256": "dc8d2581ecbdd0752dfb50695c50ff29290e0442f07bf6b46d0d8ad07ac8e843",
+    "crosswalk": {
+      "Bayern München": "Bayern Munich",
+      "Hamburger SV": "Hamburg",
+      "1. FSV Mainz 05": "Mainz",
+      "FC Ingolstadt 04": "Ingolstadt",
+      "SV Darmstadt 98": "Darmstadt",
+      "Hannover 96": "Hannover",
+      "Werder Bremen": "Werder Bremen",
+      "FC Schalke 04": "Schalke 04",
+      "FC Augsburg": "Augsburg",
+      "Hertha BSC": "Hertha",
+      "Bayer Leverkusen": "Leverkusen",
+      "1899 Hoffenheim": "Hoffenheim",
+      "Borussia Dortmund": "Dortmund",
+      "Bor. Mönchengladbach": "M'gladbach",
+      "VfL Wolfsburg": "Wolfsburg",
+      "Eintracht Frankfurt": "Ein Frankfurt",
+      "VfB Stuttgart": "Stuttgart",
+      "1. FC Köln": "FC Koln"
+    }
+  },
+  "missing_values_by_season": {
+    "2015-2016": {},
+    "2016-2017": {
+      "WHH": 1,
+      "WHD": 1,
+      "WHA": 1
+    },
+    "2017-2018": {
+      "LBH": 1,
+      "LBD": 1,
+      "LBA": 1
+    },
+    "2018-2019": {
+      "PSH": 1,
+      "PSD": 1,
+      "PSA": 1,
+      "PSCH": 1,
+      "PSCD": 1,
+      "PSCA": 1
+    },
+    "2019-2020": {
+      "IWCH": 9,
+      "IWCD": 9,
+      "IWCA": 9
+    },
+    "2020-2021": {
+      "P>2.5": 5,
+      "P<2.5": 5,
+      "PC>2.5": 5,
+      "PC<2.5": 5
+    },
+    "2021-2022": {
+      "P>2.5": 5,
+      "P<2.5": 5,
+      "PC>2.5": 4,
+      "PC<2.5": 4,
+      "IWCH": 1,
+      "IWCD": 1,
+      "IWCA": 1
+    },
+    "2022-2023": {
+      "P>2.5": 14,
+      "P<2.5": 14,
+      "PC>2.5": 12,
+      "PC<2.5": 12
+    },
+    "2023-2024": {
+      "MaxAHH": 1,
+      "MaxAHA": 1,
+      "BWH": 9,
+      "BWD": 9,
+      "BWA": 9,
+      "BWCH": 9,
+      "BWCD": 9,
+      "BWCA": 9,
+      "P>2.5": 14,
+      "P<2.5": 14,
+      "PC>2.5": 13,
+      "PC<2.5": 13,
+      "IWH": 163,
+      "IWD": 163,
+      "IWA": 163,
+      "IWCH": 163,
+      "IWCD": 163,
+      "IWCA": 163
+    },
+    "2024-2025": {
+      "BFE>2.5": 5,
+      "BFE<2.5": 5,
+      "P>2.5": 9,
+      "P<2.5": 9,
+      "PC>2.5": 9,
+      "PC<2.5": 9,
+      "PAHH": 2,
+      "PAHA": 2,
+      "1XBH": 9,
+      "1XBD": 9,
+      "1XBA": 9,
+      "BFH": 2,
+      "BFD": 2,
+      "BFA": 2,
+      "HTHG": 1,
+      "HTAG": 1,
+      "HTR": 1,
+      "HS": 1,
+      "AS": 1,
+      "HST": 1,
+      "AST": 1,
+      "HF": 1,
+      "AF": 1,
+      "HC": 1,
+      "AC": 1,
+      "HY": 1,
+      "AY": 1,
+      "HR": 1,
+      "AR": 1,
+      "BWH": 117,
+      "BWD": 117,
+      "BWA": 117,
+      "BWCH": 117,
+      "BWCD": 117,
+      "BWCA": 117,
+      "B365AHH": 1,
+      "B365AHA": 1,
+      "WHH": 72,
+      "WHD": 72,
+      "WHA": 72,
+      "WHCH": 72,
+      "WHCD": 72,
+      "WHCA": 72,
+      "BFEAHH": 1,
+      "BFEAHA": 1,
+      "BFECAHH": 1,
+      "BFECAHA": 1
+    },
+    "2025-2026": {
+      "P>2.5": 164,
+      "P<2.5": 164,
+      "PC>2.5": 164,
+      "PC<2.5": 164,
+      "PSCH": 157,
+      "PSCD": 157,
+      "PSCA": 157,
+      "PCAHH": 157,
+      "PCAHA": 157,
+      "PSH": 156,
+      "PSD": 156,
+      "PSA": 156,
+      "PAHH": 156,
+      "PAHA": 156,
+      "CLH": 80,
+      "CLD": 80,
+      "CLA": 80,
+      "LBH": 79,
+      "LBD": 79,
+      "LBA": 79,
+      "CLCH": 93,
+      "CLCD": 93,
+      "CLCA": 93,
+      "LBCH": 81,
+      "LBCD": 81,
+      "LBCA": 81,
+      "BFEH": 18,
+      "BFED": 18,
+      "BFEA": 18,
+      "BFE>2.5": 18,
+      "BFE<2.5": 18,
+      "BFEAHH": 18,
+      "BFEAHA": 18,
+      "BFECH": 18,
+      "BFECD": 18,
+      "BFECA": 18,
+      "BFEC>2.5": 18,
+      "BFEC<2.5": 18,
+      "BFECAHH": 18,
+      "BFECAHA": 18,
+      "BFDCH": 8,
+      "BFDCD": 8,
+      "BFDCA": 8,
+      "BVCH": 8,
+      "BVCD": 8,
+      "BVCA": 8,
+      "BMGMH": 3,
+      "BMGMD": 3,
+      "BMGMA": 3,
+      "BVH": 3,
+      "BVD": 3,
+      "BVA": 3,
+      "BFDH": 2,
+      "BFDD": 2,
+      "BFDA": 2
+    }
+  },
+  "kickoff_timezone_audit": {
+    "status": "ok",
+    "source_timezone": "Europe/London",
+    "conversion": "Parse source Date + Time in Europe/London (GMT/BST by date), then convert to UTC.",
+    "sample_count": 3,
+    "samples": [
+      {
+        "season": "2019-2020",
+        "match_date": "2019-08-16",
+        "home_team_football_data": "Bayern Munich",
+        "away_team_football_data": "Hertha",
+        "football_data_time": "19:30",
+        "football_data_kickoff_utc": "2019-08-16T18:30:00Z",
+        "openligadb_local_datetime": "2019-08-16T20:30:00",
+        "openligadb_kickoff_utc": "2019-08-16T18:30:00Z",
+        "agrees": true,
+        "openligadb_raw_file": "data/raw/openligadb/bl1_2019.json",
+        "openligadb_sha256": "c3c6112de7d072bf97135ca45be85b2c988bc0616c5e9a74998bdcec31ca9df9"
+      },
+      {
+        "season": "2019-2020",
+        "match_date": "2019-12-21",
+        "home_team_football_data": "Bayern Munich",
+        "away_team_football_data": "Wolfsburg",
+        "football_data_time": "14:30",
+        "football_data_kickoff_utc": "2019-12-21T14:30:00Z",
+        "openligadb_local_datetime": "2019-12-21T15:30:00",
+        "openligadb_kickoff_utc": "2019-12-21T14:30:00Z",
+        "agrees": true,
+        "openligadb_raw_file": "data/raw/openligadb/bl1_2019.json",
+        "openligadb_sha256": "c3c6112de7d072bf97135ca45be85b2c988bc0616c5e9a74998bdcec31ca9df9"
+      },
+      {
+        "season": "2025-2026",
+        "match_date": "2025-08-22",
+        "home_team_football_data": "Bayern Munich",
+        "away_team_football_data": "RB Leipzig",
+        "football_data_time": "19:30",
+        "football_data_kickoff_utc": "2025-08-22T18:30:00Z",
+        "openligadb_local_datetime": "2025-08-22T20:30:00",
+        "openligadb_kickoff_utc": "2025-08-22T18:30:00Z",
+        "agrees": true,
+        "openligadb_raw_file": "data/raw/openligadb/bl1_2025.json",
+        "openligadb_sha256": "21ec527ed6acb7b0bf6835541e2cf35e036748443cd95e51e2731eb6c6fd7c7a"
+      }
+    ],
+    "errors": []
+  }
+}

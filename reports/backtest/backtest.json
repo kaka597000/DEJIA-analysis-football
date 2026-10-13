@@ -1,0 +1,1041 @@
+{
+  "model": "DE1-POISSON-0.1",
+  "method": "season-frozen chronological fits; previous four years, no test tuning",
+  "status": "retrospective_reconstruction",
+  "validation": {
+    "matches": 306,
+    "correct_1x2": 162,
+    "accuracy_1x2": 0.5294117647058824,
+    "top_score_hits": 37,
+    "top_score_accuracy": 0.12091503267973856,
+    "log_loss": 0.9920013917749445,
+    "multiclass_brier_sum": 0.5925493891883705,
+    "reliability_bins": [
+      {
+        "from": 0,
+        "to": 0.1,
+        "class_observations": 25,
+        "mean_probability": 0.07377249636163115,
+        "observed_rate": 0.04
+      },
+      {
+        "from": 0.1,
+        "to": 0.2,
+        "class_observations": 153,
+        "mean_probability": 0.16018446126228894,
+        "observed_rate": 0.17647058823529413
+      },
+      {
+        "from": 0.2,
+        "to": 0.3,
+        "class_observations": 329,
+        "mean_probability": 0.2398163116768511,
+        "observed_rate": 0.2553191489361702
+      },
+      {
+        "from": 0.3,
+        "to": 0.4,
+        "class_observations": 130,
+        "mean_probability": 0.3427191627590348,
+        "observed_rate": 0.2923076923076923
+      },
+      {
+        "from": 0.4,
+        "to": 0.5,
+        "class_observations": 113,
+        "mean_probability": 0.4454351279306411,
+        "observed_rate": 0.49557522123893805
+      },
+      {
+        "from": 0.5,
+        "to": 0.6,
+        "class_observations": 79,
+        "mean_probability": 0.5499836918453852,
+        "observed_rate": 0.4936708860759494
+      },
+      {
+        "from": 0.6,
+        "to": 0.7,
+        "class_observations": 47,
+        "mean_probability": 0.6411886446133217,
+        "observed_rate": 0.6382978723404256
+      },
+      {
+        "from": 0.7,
+        "to": 0.8,
+        "class_observations": 31,
+        "mean_probability": 0.7399287635771906,
+        "observed_rate": 0.7096774193548387
+      },
+      {
+        "from": 0.8,
+        "to": 0.9,
+        "class_observations": 10,
+        "mean_probability": 0.8411393154103687,
+        "observed_rate": 0.8
+      },
+      {
+        "from": 0.9,
+        "to": 1.0,
+        "class_observations": 1,
+        "mean_probability": 0.9264750836999011,
+        "observed_rate": 1.0
+      }
+    ],
+    "favorite_nonwin": {
+      "eligible_favorites": 215,
+      "actual_nonwins": 92,
+      "actual_underdog_wins": 41,
+      "binary_brier": 0.23729170942227984,
+      "underdog_win_binary_brier": 0.1478225313401979
+    },
+    "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+  },
+  "test": {
+    "matches": 918,
+    "correct_1x2": 453,
+    "accuracy_1x2": 0.4934640522875817,
+    "top_score_hits": 104,
+    "top_score_accuracy": 0.11328976034858387,
+    "log_loss": 1.0083301618910043,
+    "multiclass_brier_sum": 0.6015991121693649,
+    "reliability_bins": [
+      {
+        "from": 0,
+        "to": 0.1,
+        "class_observations": 45,
+        "mean_probability": 0.07857805154886713,
+        "observed_rate": 0.06666666666666667
+      },
+      {
+        "from": 0.1,
+        "to": 0.2,
+        "class_observations": 377,
+        "mean_probability": 0.15876633784135144,
+        "observed_rate": 0.14588859416445624
+      },
+      {
+        "from": 0.2,
+        "to": 0.3,
+        "class_observations": 1098,
+        "mean_probability": 0.24250293156422423,
+        "observed_rate": 0.2750455373406193
+      },
+      {
+        "from": 0.3,
+        "to": 0.4,
+        "class_observations": 415,
+        "mean_probability": 0.34838218987534664,
+        "observed_rate": 0.3325301204819277
+      },
+      {
+        "from": 0.4,
+        "to": 0.5,
+        "class_observations": 366,
+        "mean_probability": 0.4505490524273335,
+        "observed_rate": 0.39617486338797814
+      },
+      {
+        "from": 0.5,
+        "to": 0.6,
+        "class_observations": 234,
+        "mean_probability": 0.5432105410189837,
+        "observed_rate": 0.49572649572649574
+      },
+      {
+        "from": 0.6,
+        "to": 0.7,
+        "class_observations": 123,
+        "mean_probability": 0.642905068225462,
+        "observed_rate": 0.6991869918699187
+      },
+      {
+        "from": 0.7,
+        "to": 0.8,
+        "class_observations": 74,
+        "mean_probability": 0.7366308448208532,
+        "observed_rate": 0.7432432432432432
+      },
+      {
+        "from": 0.8,
+        "to": 0.9,
+        "class_observations": 22,
+        "mean_probability": 0.8255465892274206,
+        "observed_rate": 0.8181818181818182
+      }
+    ],
+    "favorite_nonwin": {
+      "eligible_favorites": 640,
+      "actual_nonwins": 285,
+      "actual_underdog_wins": 140,
+      "binary_brier": 0.2316631304760158,
+      "underdog_win_binary_brier": 0.1644504504719941
+    },
+    "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+  },
+  "seasons": [
+    {
+      "season": "2022-2023",
+      "split": "validation",
+      "model": {
+        "matches": 306,
+        "correct_1x2": 162,
+        "accuracy_1x2": 0.5294117647058824,
+        "top_score_hits": 37,
+        "top_score_accuracy": 0.12091503267973856,
+        "log_loss": 0.9920013917749445,
+        "multiclass_brier_sum": 0.5925493891883705,
+        "reliability_bins": [
+          {
+            "from": 0,
+            "to": 0.1,
+            "class_observations": 25,
+            "mean_probability": 0.07377249636163115,
+            "observed_rate": 0.04
+          },
+          {
+            "from": 0.1,
+            "to": 0.2,
+            "class_observations": 153,
+            "mean_probability": 0.16018446126228894,
+            "observed_rate": 0.17647058823529413
+          },
+          {
+            "from": 0.2,
+            "to": 0.3,
+            "class_observations": 329,
+            "mean_probability": 0.2398163116768511,
+            "observed_rate": 0.2553191489361702
+          },
+          {
+            "from": 0.3,
+            "to": 0.4,
+            "class_observations": 130,
+            "mean_probability": 0.3427191627590348,
+            "observed_rate": 0.2923076923076923
+          },
+          {
+            "from": 0.4,
+            "to": 0.5,
+            "class_observations": 113,
+            "mean_probability": 0.4454351279306411,
+            "observed_rate": 0.49557522123893805
+          },
+          {
+            "from": 0.5,
+            "to": 0.6,
+            "class_observations": 79,
+            "mean_probability": 0.5499836918453852,
+            "observed_rate": 0.4936708860759494
+          },
+          {
+            "from": 0.6,
+            "to": 0.7,
+            "class_observations": 47,
+            "mean_probability": 0.6411886446133217,
+            "observed_rate": 0.6382978723404256
+          },
+          {
+            "from": 0.7,
+            "to": 0.8,
+            "class_observations": 31,
+            "mean_probability": 0.7399287635771906,
+            "observed_rate": 0.7096774193548387
+          },
+          {
+            "from": 0.8,
+            "to": 0.9,
+            "class_observations": 10,
+            "mean_probability": 0.8411393154103687,
+            "observed_rate": 0.8
+          },
+          {
+            "from": 0.9,
+            "to": 1.0,
+            "class_observations": 1,
+            "mean_probability": 0.9264750836999011,
+            "observed_rate": 1.0
+          }
+        ],
+        "favorite_nonwin": {
+          "eligible_favorites": 215,
+          "actual_nonwins": 92,
+          "actual_underdog_wins": 41,
+          "binary_brier": 0.23729170942227984,
+          "underdog_win_binary_brier": 0.1478225313401979
+        },
+        "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+      },
+      "historical_frequency_baseline": {
+        "matches": 306,
+        "correct_1x2": 145,
+        "accuracy_1x2": 0.4738562091503268,
+        "top_score_hits": 37,
+        "top_score_accuracy": 0.12091503267973856,
+        "log_loss": 1.0573614621968108,
+        "multiclass_brier_sum": 0.6379192199755719,
+        "reliability_bins": [
+          {
+            "from": 0.2,
+            "to": 0.3,
+            "class_observations": 306,
+            "mean_probability": 0.2441643323996265,
+            "observed_rate": 0.24509803921568626
+          },
+          {
+            "from": 0.3,
+            "to": 0.4,
+            "class_observations": 306,
+            "mean_probability": 0.30905695611577966,
+            "observed_rate": 0.28104575163398693
+          },
+          {
+            "from": 0.4,
+            "to": 0.5,
+            "class_observations": 306,
+            "mean_probability": 0.44677871148459386,
+            "observed_rate": 0.4738562091503268
+          }
+        ],
+        "favorite_nonwin": {
+          "eligible_favorites": 0,
+          "actual_nonwins": 0,
+          "actual_underdog_wins": 0,
+          "binary_brier": null,
+          "underdog_win_binary_brier": null
+        },
+        "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+      },
+      "market_retrospective_unverified_timestamps": {
+        "matches": 306,
+        "correct_1x2": 162,
+        "accuracy_1x2": 0.5294117647058824,
+        "top_score_hits": 37,
+        "top_score_accuracy": 0.12091503267973856,
+        "log_loss": 0.9959418771351647,
+        "multiclass_brier_sum": 0.5944976890319831,
+        "reliability_bins": [
+          {
+            "from": 0,
+            "to": 0.1,
+            "class_observations": 25,
+            "mean_probability": 0.0755238451742964,
+            "observed_rate": 0.04
+          },
+          {
+            "from": 0.1,
+            "to": 0.2,
+            "class_observations": 122,
+            "mean_probability": 0.15823537854578892,
+            "observed_rate": 0.1885245901639344
+          },
+          {
+            "from": 0.2,
+            "to": 0.3,
+            "class_observations": 367,
+            "mean_probability": 0.253946410272211,
+            "observed_rate": 0.2452316076294278
+          },
+          {
+            "from": 0.3,
+            "to": 0.4,
+            "class_observations": 139,
+            "mean_probability": 0.34481387806133795,
+            "observed_rate": 0.302158273381295
+          },
+          {
+            "from": 0.4,
+            "to": 0.5,
+            "class_observations": 127,
+            "mean_probability": 0.44299557646969473,
+            "observed_rate": 0.5275590551181102
+          },
+          {
+            "from": 0.5,
+            "to": 0.6,
+            "class_observations": 61,
+            "mean_probability": 0.5495863691345764,
+            "observed_rate": 0.5409836065573771
+          },
+          {
+            "from": 0.6,
+            "to": 0.7,
+            "class_observations": 45,
+            "mean_probability": 0.6442965114199706,
+            "observed_rate": 0.6
+          },
+          {
+            "from": 0.7,
+            "to": 0.8,
+            "class_observations": 20,
+            "mean_probability": 0.7449938981881765,
+            "observed_rate": 0.75
+          },
+          {
+            "from": 0.8,
+            "to": 0.9,
+            "class_observations": 12,
+            "mean_probability": 0.8334415300921956,
+            "observed_rate": 0.6666666666666666
+          }
+        ],
+        "favorite_nonwin": {
+          "eligible_favorites": 187,
+          "actual_nonwins": 77,
+          "actual_underdog_wins": 34,
+          "binary_brier": 0.2390705376214506,
+          "underdog_win_binary_brier": 0.14364825137464493
+        },
+        "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+      }
+    },
+    {
+      "season": "2023-2024",
+      "split": "test",
+      "model": {
+        "matches": 306,
+        "correct_1x2": 145,
+        "accuracy_1x2": 0.4738562091503268,
+        "top_score_hits": 46,
+        "top_score_accuracy": 0.1503267973856209,
+        "log_loss": 1.0242197023285338,
+        "multiclass_brier_sum": 0.6125052632830434,
+        "reliability_bins": [
+          {
+            "from": 0,
+            "to": 0.1,
+            "class_observations": 18,
+            "mean_probability": 0.07666298311676661,
+            "observed_rate": 0.05555555555555555
+          },
+          {
+            "from": 0.1,
+            "to": 0.2,
+            "class_observations": 126,
+            "mean_probability": 0.1610306395012249,
+            "observed_rate": 0.16666666666666666
+          },
+          {
+            "from": 0.2,
+            "to": 0.3,
+            "class_observations": 361,
+            "mean_probability": 0.24018602267588587,
+            "observed_rate": 0.2880886426592798
+          },
+          {
+            "from": 0.3,
+            "to": 0.4,
+            "class_observations": 138,
+            "mean_probability": 0.3496835313460749,
+            "observed_rate": 0.3188405797101449
+          },
+          {
+            "from": 0.4,
+            "to": 0.5,
+            "class_observations": 113,
+            "mean_probability": 0.44457129797526035,
+            "observed_rate": 0.34513274336283184
+          },
+          {
+            "from": 0.5,
+            "to": 0.6,
+            "class_observations": 85,
+            "mean_probability": 0.5416549017352246,
+            "observed_rate": 0.5176470588235295
+          },
+          {
+            "from": 0.6,
+            "to": 0.7,
+            "class_observations": 46,
+            "mean_probability": 0.6369981447183016,
+            "observed_rate": 0.6521739130434783
+          },
+          {
+            "from": 0.7,
+            "to": 0.8,
+            "class_observations": 22,
+            "mean_probability": 0.7413743773798527,
+            "observed_rate": 0.6818181818181818
+          },
+          {
+            "from": 0.8,
+            "to": 0.9,
+            "class_observations": 9,
+            "mean_probability": 0.8308166596548432,
+            "observed_rate": 0.8888888888888888
+          }
+        ],
+        "favorite_nonwin": {
+          "eligible_favorites": 210,
+          "actual_nonwins": 97,
+          "actual_underdog_wins": 48,
+          "binary_brier": 0.23351610057477998,
+          "underdog_win_binary_brier": 0.17126457919818344
+        },
+        "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+      },
+      "historical_frequency_baseline": {
+        "matches": 306,
+        "correct_1x2": 134,
+        "accuracy_1x2": 0.43790849673202614,
+        "top_score_hits": 46,
+        "top_score_accuracy": 0.1503267973856209,
+        "log_loss": 1.0751877263537795,
+        "multiclass_brier_sum": 0.6503628412149174,
+        "reliability_bins": [
+          {
+            "from": 0.2,
+            "to": 0.3,
+            "class_observations": 306,
+            "mean_probability": 0.24428104575163398,
+            "observed_rate": 0.2647058823529412
+          },
+          {
+            "from": 0.3,
+            "to": 0.4,
+            "class_observations": 306,
+            "mean_probability": 0.3055555555555556,
+            "observed_rate": 0.2973856209150327
+          },
+          {
+            "from": 0.4,
+            "to": 0.5,
+            "class_observations": 306,
+            "mean_probability": 0.45016339869281047,
+            "observed_rate": 0.43790849673202614
+          }
+        ],
+        "favorite_nonwin": {
+          "eligible_favorites": 306,
+          "actual_nonwins": 172,
+          "actual_underdog_wins": 91,
+          "binary_brier": 0.24629482784399165,
+          "underdog_win_binary_brier": 0.20901416122004357
+        },
+        "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+      },
+      "market_retrospective_unverified_timestamps": {
+        "matches": 306,
+        "correct_1x2": 166,
+        "accuracy_1x2": 0.5424836601307189,
+        "top_score_hits": 46,
+        "top_score_accuracy": 0.1503267973856209,
+        "log_loss": 0.9469881851356313,
+        "multiclass_brier_sum": 0.5599993244378401,
+        "reliability_bins": [
+          {
+            "from": 0,
+            "to": 0.1,
+            "class_observations": 35,
+            "mean_probability": 0.07164275271775195,
+            "observed_rate": 0.02857142857142857
+          },
+          {
+            "from": 0.1,
+            "to": 0.2,
+            "class_observations": 150,
+            "mean_probability": 0.15370155672773167,
+            "observed_rate": 0.13333333333333333
+          },
+          {
+            "from": 0.2,
+            "to": 0.3,
+            "class_observations": 339,
+            "mean_probability": 0.2506646123442015,
+            "observed_rate": 0.25958702064896755
+          },
+          {
+            "from": 0.3,
+            "to": 0.4,
+            "class_observations": 128,
+            "mean_probability": 0.3505326266783613,
+            "observed_rate": 0.34375
+          },
+          {
+            "from": 0.4,
+            "to": 0.5,
+            "class_observations": 109,
+            "mean_probability": 0.44333513859809176,
+            "observed_rate": 0.43119266055045874
+          },
+          {
+            "from": 0.5,
+            "to": 0.6,
+            "class_observations": 60,
+            "mean_probability": 0.5487633620724657,
+            "observed_rate": 0.55
+          },
+          {
+            "from": 0.6,
+            "to": 0.7,
+            "class_observations": 48,
+            "mean_probability": 0.6537227041080343,
+            "observed_rate": 0.7083333333333334
+          },
+          {
+            "from": 0.7,
+            "to": 0.8,
+            "class_observations": 36,
+            "mean_probability": 0.7469434444201845,
+            "observed_rate": 0.75
+          },
+          {
+            "from": 0.8,
+            "to": 0.9,
+            "class_observations": 12,
+            "mean_probability": 0.8473111641361077,
+            "observed_rate": 0.9166666666666666
+          },
+          {
+            "from": 0.9,
+            "to": 1.0,
+            "class_observations": 1,
+            "mean_probability": 0.9080707487188545,
+            "observed_rate": 1.0
+          }
+        ],
+        "favorite_nonwin": {
+          "eligible_favorites": 207,
+          "actual_nonwins": 79,
+          "actual_underdog_wins": 28,
+          "binary_brier": 0.21594358980286452,
+          "underdog_win_binary_brier": 0.11705041368975615
+        },
+        "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+      }
+    },
+    {
+      "season": "2024-2025",
+      "split": "test",
+      "model": {
+        "matches": 306,
+        "correct_1x2": 142,
+        "accuracy_1x2": 0.46405228758169936,
+        "top_score_hits": 24,
+        "top_score_accuracy": 0.0784313725490196,
+        "log_loss": 1.0277202195948976,
+        "multiclass_brier_sum": 0.6163579074677693,
+        "reliability_bins": [
+          {
+            "from": 0,
+            "to": 0.1,
+            "class_observations": 15,
+            "mean_probability": 0.08004502021634745,
+            "observed_rate": 0.06666666666666667
+          },
+          {
+            "from": 0.1,
+            "to": 0.2,
+            "class_observations": 132,
+            "mean_probability": 0.15492383808322638,
+            "observed_rate": 0.1590909090909091
+          },
+          {
+            "from": 0.2,
+            "to": 0.3,
+            "class_observations": 378,
+            "mean_probability": 0.24328700858869715,
+            "observed_rate": 0.291005291005291
+          },
+          {
+            "from": 0.3,
+            "to": 0.4,
+            "class_observations": 104,
+            "mean_probability": 0.3424567402798473,
+            "observed_rate": 0.375
+          },
+          {
+            "from": 0.4,
+            "to": 0.5,
+            "class_observations": 138,
+            "mean_probability": 0.4554776334687428,
+            "observed_rate": 0.36231884057971014
+          },
+          {
+            "from": 0.5,
+            "to": 0.6,
+            "class_observations": 76,
+            "mean_probability": 0.543168825482866,
+            "observed_rate": 0.40789473684210525
+          },
+          {
+            "from": 0.6,
+            "to": 0.7,
+            "class_observations": 36,
+            "mean_probability": 0.6480707904002732,
+            "observed_rate": 0.6388888888888888
+          },
+          {
+            "from": 0.7,
+            "to": 0.8,
+            "class_observations": 32,
+            "mean_probability": 0.735560012074407,
+            "observed_rate": 0.78125
+          },
+          {
+            "from": 0.8,
+            "to": 0.9,
+            "class_observations": 7,
+            "mean_probability": 0.8237392625660115,
+            "observed_rate": 0.8571428571428571
+          }
+        ],
+        "favorite_nonwin": {
+          "eligible_favorites": 230,
+          "actual_nonwins": 112,
+          "actual_underdog_wins": 58,
+          "binary_brier": 0.23537687022669415,
+          "underdog_win_binary_brier": 0.1810792773210034
+        },
+        "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+      },
+      "historical_frequency_baseline": {
+        "matches": 306,
+        "correct_1x2": 118,
+        "accuracy_1x2": 0.38562091503267976,
+        "top_score_hits": 24,
+        "top_score_accuracy": 0.0784313725490196,
+        "log_loss": 1.092442945543631,
+        "multiclass_brier_sum": 0.6637857972743416,
+        "reliability_bins": [
+          {
+            "from": 0.2,
+            "to": 0.3,
+            "class_observations": 306,
+            "mean_probability": 0.2465504720406681,
+            "observed_rate": 0.25163398692810457
+          },
+          {
+            "from": 0.3,
+            "to": 0.4,
+            "class_observations": 306,
+            "mean_probability": 0.3046477850399419,
+            "observed_rate": 0.3627450980392157
+          },
+          {
+            "from": 0.4,
+            "to": 0.5,
+            "class_observations": 306,
+            "mean_probability": 0.4488017429193899,
+            "observed_rate": 0.38562091503267976
+          }
+        ],
+        "favorite_nonwin": {
+          "eligible_favorites": 0,
+          "actual_nonwins": 0,
+          "actual_underdog_wins": 0,
+          "binary_brier": null,
+          "underdog_win_binary_brier": null
+        },
+        "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+      },
+      "market_retrospective_unverified_timestamps": {
+        "matches": 306,
+        "correct_1x2": 159,
+        "accuracy_1x2": 0.5196078431372549,
+        "top_score_hits": 24,
+        "top_score_accuracy": 0.0784313725490196,
+        "log_loss": 0.9900288585781899,
+        "multiclass_brier_sum": 0.5912994385243137,
+        "reliability_bins": [
+          {
+            "from": 0,
+            "to": 0.1,
+            "class_observations": 38,
+            "mean_probability": 0.07348313311001187,
+            "observed_rate": 0.07894736842105263
+          },
+          {
+            "from": 0.1,
+            "to": 0.2,
+            "class_observations": 133,
+            "mean_probability": 0.15857447112787718,
+            "observed_rate": 0.17293233082706766
+          },
+          {
+            "from": 0.2,
+            "to": 0.3,
+            "class_observations": 343,
+            "mean_probability": 0.2511259222490181,
+            "observed_rate": 0.2653061224489796
+          },
+          {
+            "from": 0.3,
+            "to": 0.4,
+            "class_observations": 147,
+            "mean_probability": 0.3468469404700501,
+            "observed_rate": 0.3333333333333333
+          },
+          {
+            "from": 0.4,
+            "to": 0.5,
+            "class_observations": 96,
+            "mean_probability": 0.44173967662375996,
+            "observed_rate": 0.46875
+          },
+          {
+            "from": 0.5,
+            "to": 0.6,
+            "class_observations": 74,
+            "mean_probability": 0.5472579431738099,
+            "observed_rate": 0.5
+          },
+          {
+            "from": 0.6,
+            "to": 0.7,
+            "class_observations": 41,
+            "mean_probability": 0.6418302518557574,
+            "observed_rate": 0.5121951219512195
+          },
+          {
+            "from": 0.7,
+            "to": 0.8,
+            "class_observations": 32,
+            "mean_probability": 0.7448895162918152,
+            "observed_rate": 0.78125
+          },
+          {
+            "from": 0.8,
+            "to": 0.9,
+            "class_observations": 13,
+            "mean_probability": 0.8479037283033407,
+            "observed_rate": 0.8461538461538461
+          },
+          {
+            "from": 0.9,
+            "to": 1.0,
+            "class_observations": 1,
+            "mean_probability": 0.9161946351908694,
+            "observed_rate": 1.0
+          }
+        ],
+        "favorite_nonwin": {
+          "eligible_favorites": 203,
+          "actual_nonwins": 88,
+          "actual_underdog_wins": 40,
+          "binary_brier": 0.23024548401876224,
+          "underdog_win_binary_brier": 0.1507628107846751
+        },
+        "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+      }
+    },
+    {
+      "season": "2025-2026",
+      "split": "test",
+      "model": {
+        "matches": 306,
+        "correct_1x2": 166,
+        "accuracy_1x2": 0.5424836601307189,
+        "top_score_hits": 34,
+        "top_score_accuracy": 0.1111111111111111,
+        "log_loss": 0.9730505637495821,
+        "multiclass_brier_sum": 0.5759341657572818,
+        "reliability_bins": [
+          {
+            "from": 0,
+            "to": 0.1,
+            "class_observations": 12,
+            "mean_probability": 0.07961694336266749,
+            "observed_rate": 0.08333333333333333
+          },
+          {
+            "from": 0.1,
+            "to": 0.2,
+            "class_observations": 119,
+            "mean_probability": 0.16063111060545604,
+            "observed_rate": 0.1092436974789916
+          },
+          {
+            "from": 0.2,
+            "to": 0.3,
+            "class_observations": 359,
+            "mean_probability": 0.24400717388578239,
+            "observed_rate": 0.24512534818941503
+          },
+          {
+            "from": 0.3,
+            "to": 0.4,
+            "class_observations": 173,
+            "mean_probability": 0.3509062455688231,
+            "observed_rate": 0.3179190751445087
+          },
+          {
+            "from": 0.4,
+            "to": 0.5,
+            "class_observations": 115,
+            "mean_probability": 0.4505085486827229,
+            "observed_rate": 0.48695652173913045
+          },
+          {
+            "from": 0.5,
+            "to": 0.6,
+            "class_observations": 73,
+            "mean_probability": 0.5450653317020585,
+            "observed_rate": 0.5616438356164384
+          },
+          {
+            "from": 0.6,
+            "to": 0.7,
+            "class_observations": 41,
+            "mean_probability": 0.6449965922019539,
+            "observed_rate": 0.8048780487804879
+          },
+          {
+            "from": 0.7,
+            "to": 0.8,
+            "class_observations": 20,
+            "mean_probability": 0.7331262914002675,
+            "observed_rate": 0.75
+          },
+          {
+            "from": 0.8,
+            "to": 0.9,
+            "class_observations": 6,
+            "mean_probability": 0.819750031357931,
+            "observed_rate": 0.6666666666666666
+          }
+        ],
+        "favorite_nonwin": {
+          "eligible_favorites": 200,
+          "actual_nonwins": 76,
+          "actual_underdog_wins": 34,
+          "binary_brier": 0.2254467111590333,
+          "underdog_win_binary_brier": 0.13817246443313466
+        },
+        "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+      },
+      "historical_frequency_baseline": {
+        "matches": 306,
+        "correct_1x2": 134,
+        "accuracy_1x2": 0.43790849673202614,
+        "top_score_hits": 34,
+        "top_score_accuracy": 0.1111111111111111,
+        "log_loss": 1.07051794499735,
+        "multiclass_brier_sum": 0.6477457388184032,
+        "reliability_bins": [
+          {
+            "from": 0.2,
+            "to": 0.3,
+            "class_observations": 306,
+            "mean_probability": 0.2470588235294118,
+            "observed_rate": 0.24509803921568626
+          },
+          {
+            "from": 0.3,
+            "to": 0.4,
+            "class_observations": 306,
+            "mean_probability": 0.3104575163398693,
+            "observed_rate": 0.31699346405228757
+          },
+          {
+            "from": 0.4,
+            "to": 0.5,
+            "class_observations": 306,
+            "mean_probability": 0.442483660130719,
+            "observed_rate": 0.43790849673202614
+          }
+        ],
+        "favorite_nonwin": {
+          "eligible_favorites": 0,
+          "actual_nonwins": 0,
+          "actual_underdog_wins": 0,
+          "binary_brier": null,
+          "underdog_win_binary_brier": null
+        },
+        "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+      },
+      "market_retrospective_unverified_timestamps": {
+        "matches": 306,
+        "correct_1x2": 168,
+        "accuracy_1x2": 0.5490196078431373,
+        "top_score_hits": 34,
+        "top_score_accuracy": 0.1111111111111111,
+        "log_loss": 0.953253844154854,
+        "multiclass_brier_sum": 0.5629483930576981,
+        "reliability_bins": [
+          {
+            "from": 0,
+            "to": 0.1,
+            "class_observations": 26,
+            "mean_probability": 0.07503310768115729,
+            "observed_rate": 0.07692307692307693
+          },
+          {
+            "from": 0.1,
+            "to": 0.2,
+            "class_observations": 112,
+            "mean_probability": 0.16177209520017202,
+            "observed_rate": 0.10714285714285714
+          },
+          {
+            "from": 0.2,
+            "to": 0.3,
+            "class_observations": 376,
+            "mean_probability": 0.25247888122889195,
+            "observed_rate": 0.25
+          },
+          {
+            "from": 0.3,
+            "to": 0.4,
+            "class_observations": 146,
+            "mean_probability": 0.34872233123888824,
+            "observed_rate": 0.2876712328767123
+          },
+          {
+            "from": 0.4,
+            "to": 0.5,
+            "class_observations": 123,
+            "mean_probability": 0.4478696022351156,
+            "observed_rate": 0.4796747967479675
+          },
+          {
+            "from": 0.5,
+            "to": 0.6,
+            "class_observations": 64,
+            "mean_probability": 0.5495481325077342,
+            "observed_rate": 0.65625
+          },
+          {
+            "from": 0.6,
+            "to": 0.7,
+            "class_observations": 43,
+            "mean_probability": 0.6465865355787556,
+            "observed_rate": 0.7674418604651163
+          },
+          {
+            "from": 0.7,
+            "to": 0.8,
+            "class_observations": 17,
+            "mean_probability": 0.7499734200777227,
+            "observed_rate": 0.7647058823529411
+          },
+          {
+            "from": 0.8,
+            "to": 0.9,
+            "class_observations": 11,
+            "mean_probability": 0.8430303734825085,
+            "observed_rate": 0.8181818181818182
+          }
+        ],
+        "favorite_nonwin": {
+          "eligible_favorites": 191,
+          "actual_nonwins": 69,
+          "actual_underdog_wins": 28,
+          "binary_brier": 0.2198045481464102,
+          "underdog_win_binary_brier": 0.12353105754319613
+        },
+        "upset_rule_validation": "not_evaluated_without_timestamped_multisource_evidence"
+      }
+    },
+    {
+      "season": "2026-2027",
+      "status": "excluded_incomplete_season",
+      "matches": 45
+    }
+  ],
+  "limitations": [
+    "模型只用历史赛果；没有验证外部LLM共识或冷门规则的准确率。",
+    "历史赔率缺少发布时间，不进入严格赛前预测；赔率对照仅为回顾性。",
+    "本次历史数据为当前获取，没有当时冻结存档；不报告收益或宣传性命中率。"
+  ]
+}

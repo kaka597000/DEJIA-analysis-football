@@ -1,0 +1,38 @@
+[
+  {
+    "match_id": "REPLACE_WITH_FIXTURE_ID",
+    "kind": "euro",
+    "source_url": "REPLACE_WITH_ORIGINAL_HTTPS_URL",
+    "published_at": "REPLACE_WITH_ACTUAL_TIME_WITH_TIMEZONE",
+    "observed_at": "REPLACE_WITH_FIRST_OBSERVED_TIME",
+    "trust": 0.8,
+    "payload": {"bookmaker": "REPLACE_WITH_VENUE", "H": 1.8, "D": 3.5, "A": 4.5}
+  },
+  {
+    "match_id": "REPLACE_WITH_FIXTURE_ID",
+    "kind": "asian",
+    "source_url": "REPLACE_WITH_ORIGINAL_HTTPS_URL",
+    "published_at": "REPLACE_WITH_ACTUAL_TIME_WITH_TIMEZONE",
+    "observed_at": "REPLACE_WITH_FIRST_OBSERVED_TIME",
+    "trust": 0.8,
+    "payload": {"bookmaker": "REPLACE_WITH_VENUE", "home_handicap": -0.5, "home_odds": 1.95, "away_odds": 1.95}
+  },
+  {
+    "match_id": "REPLACE_WITH_FIXTURE_ID",
+    "kind": "funds",
+    "source_url": "REPLACE_WITH_ORIGINAL_HTTPS_URL",
+    "published_at": "REPLACE_WITH_ACTUAL_TIME_WITH_TIMEZONE",
+    "observed_at": "REPLACE_WITH_FIRST_OBSERVED_TIME",
+    "trust": 0.8,
+    "payload": {"bookmaker": "REPLACE_WITH_VENUE", "metric": "amount_share", "side": "H", "amount_share": 0.7, "total_amount": 10000, "currency": "EUR", "window": "REPLACE_WITH_MEASURED_WINDOW"}
+  },
+  {
+    "match_id": "REPLACE_WITH_FIXTURE_ID",
+    "kind": "lineup",
+    "source_url": "REPLACE_WITH_ORIGINAL_HTTPS_URL",
+    "published_at": "REPLACE_WITH_ACTUAL_TIME_WITH_TIMEZONE",
+    "observed_at": "REPLACE_WITH_FIRST_OBSERVED_TIME",
+    "trust": 0.8,
+    "payload": {"side": "H", "direction": "negative", "severity": "major", "summary": "REPLACE_WITH_VERIFIED_LINEUP_CHANGE", "players": [], "formation": null}
+  }
+]

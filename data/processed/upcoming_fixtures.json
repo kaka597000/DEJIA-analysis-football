@@ -1,0 +1,2351 @@
+[
+  {
+    "match_id": "openligadb-83203",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2026-10-16T18:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83204",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2026-10-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83206",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2026-10-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83207",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2026-10-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83208",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "Mainz",
+    "kickoff_utc": "2026-10-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83209",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2026-10-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83201",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2026-10-17T16:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83202",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2026-10-18T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83205",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2026-10-18T15:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83212",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2026-10-23T18:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83211",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2026-10-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83215",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2026-10-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83216",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2026-10-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83217",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2026-10-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83218",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2026-10-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83210",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2026-10-24T16:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83213",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2026-10-25T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83214",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2026-10-25T16:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83227",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "Mainz",
+    "kickoff_utc": "2026-10-30T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83220",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2026-10-31T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83222",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2026-10-31T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83224",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2026-10-31T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83225",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2026-10-31T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83226",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2026-10-31T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83219",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2026-10-31T17:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83223",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2026-11-01T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83221",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2026-11-01T16:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83234",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2026-11-06T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83228",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2026-11-07T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83229",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2026-11-07T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83233",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2026-11-07T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83236",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2026-11-07T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83230",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2026-11-07T17:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83235",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2026-11-08T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83232",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2026-11-08T16:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83231",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2026-11-08T18:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83237",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2026-11-20T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83238",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2026-11-21T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83239",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2026-11-21T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83241",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2026-11-21T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83242",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2026-11-21T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83245",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2026-11-21T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83244",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2026-11-21T17:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83240",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "Mainz",
+    "kickoff_utc": "2026-11-22T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83243",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2026-11-22T16:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83253",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2026-11-27T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83250",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2026-11-28T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83251",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2026-11-28T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83252",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2026-11-28T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83254",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2026-11-28T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83247",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2026-11-28T17:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83249",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2026-11-29T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83248",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2026-11-29T16:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83246",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2026-11-29T18:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83255",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2026-12-05T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83256",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "Mainz",
+    "kickoff_utc": "2026-12-05T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83257",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2026-12-05T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83258",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2026-12-05T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83259",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2026-12-05T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83260",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2026-12-05T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83261",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2026-12-05T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83262",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2026-12-05T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83263",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2026-12-05T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83264",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2026-12-12T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83265",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2026-12-12T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83266",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2026-12-12T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83267",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2026-12-12T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83268",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2026-12-12T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83269",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2026-12-12T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83270",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2026-12-12T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83271",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2026-12-12T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83272",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2026-12-12T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83273",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2026-12-19T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83274",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2026-12-19T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83275",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2026-12-19T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83276",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2026-12-19T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83277",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2026-12-19T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83278",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2026-12-19T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83279",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2026-12-19T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83280",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2026-12-19T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83281",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2026-12-19T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83282",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "Mainz",
+    "kickoff_utc": "2027-01-09T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83283",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2027-01-09T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83284",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2027-01-09T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83285",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2027-01-09T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83286",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2027-01-09T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83287",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2027-01-09T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83288",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2027-01-09T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83289",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2027-01-09T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83290",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2027-01-09T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83291",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2027-01-12T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83292",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2027-01-12T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83293",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2027-01-12T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83294",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2027-01-12T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83295",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2027-01-12T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83296",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2027-01-12T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83297",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2027-01-12T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83298",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2027-01-12T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83299",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2027-01-12T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83300",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2027-01-16T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83301",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "Mainz",
+    "kickoff_utc": "2027-01-16T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83302",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2027-01-16T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83303",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2027-01-16T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83304",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2027-01-16T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83305",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2027-01-16T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83306",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2027-01-16T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83307",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2027-01-16T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83308",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2027-01-16T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83309",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2027-01-23T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83310",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2027-01-23T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83311",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2027-01-23T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83312",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2027-01-23T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83313",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2027-01-23T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83314",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2027-01-23T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83315",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2027-01-23T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83316",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2027-01-23T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83317",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "Mainz",
+    "kickoff_utc": "2027-01-23T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83318",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2027-01-30T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83319",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2027-01-30T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83320",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2027-01-30T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83321",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2027-01-30T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83322",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2027-01-30T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83323",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2027-01-30T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83324",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2027-01-30T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83325",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2027-01-30T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83326",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2027-01-30T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83327",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2027-02-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83328",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2027-02-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83329",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2027-02-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83330",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "Mainz",
+    "kickoff_utc": "2027-02-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83331",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2027-02-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83332",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2027-02-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83333",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2027-02-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83334",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2027-02-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83335",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2027-02-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83336",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2027-02-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83337",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2027-02-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83338",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2027-02-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83339",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2027-02-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83340",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2027-02-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83341",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2027-02-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83342",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2027-02-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83343",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2027-02-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83344",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2027-02-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83345",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2027-02-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83346",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2027-02-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83347",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "Mainz",
+    "kickoff_utc": "2027-02-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83348",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2027-02-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83349",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2027-02-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83350",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2027-02-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83351",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2027-02-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83352",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2027-02-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83353",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2027-02-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83354",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2027-02-27T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83355",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2027-02-27T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83356",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2027-02-27T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83357",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2027-02-27T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83358",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2027-02-27T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83359",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2027-02-27T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83360",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2027-02-27T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83361",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2027-02-27T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83362",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2027-02-27T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83363",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2027-03-02T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83364",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2027-03-02T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83365",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2027-03-02T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83366",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2027-03-02T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83367",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2027-03-02T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83368",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2027-03-02T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83369",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "Mainz",
+    "kickoff_utc": "2027-03-02T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83370",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2027-03-02T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83371",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2027-03-02T19:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83372",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2027-03-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83373",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2027-03-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83374",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2027-03-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83375",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2027-03-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83376",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2027-03-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83377",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2027-03-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83378",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2027-03-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83379",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2027-03-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83380",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2027-03-06T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83381",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "Mainz",
+    "kickoff_utc": "2027-03-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83382",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2027-03-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83383",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2027-03-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83384",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2027-03-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83385",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2027-03-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83386",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2027-03-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83387",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2027-03-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83388",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2027-03-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83389",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2027-03-13T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83390",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2027-03-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83391",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2027-03-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83392",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2027-03-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83393",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2027-03-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83394",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2027-03-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83395",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2027-03-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83396",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2027-03-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83397",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2027-03-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83398",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2027-03-20T14:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83399",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2027-04-03T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83400",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2027-04-03T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83401",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2027-04-03T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83402",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2027-04-03T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83403",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2027-04-03T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83404",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "Mainz",
+    "kickoff_utc": "2027-04-03T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83405",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2027-04-03T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83406",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2027-04-03T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83407",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2027-04-03T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83408",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2027-04-10T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83409",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2027-04-10T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83410",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2027-04-10T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83411",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2027-04-10T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83412",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2027-04-10T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83413",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2027-04-10T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83414",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2027-04-10T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83415",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2027-04-10T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83416",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2027-04-10T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83417",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2027-04-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83418",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2027-04-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83419",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2027-04-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83420",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "Mainz",
+    "kickoff_utc": "2027-04-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83421",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2027-04-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83422",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2027-04-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83423",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2027-04-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83424",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2027-04-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83425",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2027-04-17T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83426",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2027-04-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83427",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2027-04-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83428",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2027-04-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83429",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2027-04-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83430",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2027-04-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83431",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2027-04-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83432",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "Mainz",
+    "kickoff_utc": "2027-04-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83433",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2027-04-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83434",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2027-04-24T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83435",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2027-05-08T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83436",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2027-05-08T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83437",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2027-05-08T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83438",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2027-05-08T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83439",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2027-05-08T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83440",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2027-05-08T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83441",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2027-05-08T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83442",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2027-05-08T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83443",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2027-05-08T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83444",
+    "competition": "DE1",
+    "home_team": "Dortmund",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2027-05-15T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83445",
+    "competition": "DE1",
+    "home_team": "Stuttgart",
+    "away_team": "RB Leipzig",
+    "kickoff_utc": "2027-05-15T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83446",
+    "competition": "DE1",
+    "home_team": "Hoffenheim",
+    "away_team": "Mainz",
+    "kickoff_utc": "2027-05-15T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83447",
+    "competition": "DE1",
+    "home_team": "Leverkusen",
+    "away_team": "Bayern Munich",
+    "kickoff_utc": "2027-05-15T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83448",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "Elversberg",
+    "kickoff_utc": "2027-05-15T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83449",
+    "competition": "DE1",
+    "home_team": "M'gladbach",
+    "away_team": "Augsburg",
+    "kickoff_utc": "2027-05-15T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83450",
+    "competition": "DE1",
+    "home_team": "Hamburg",
+    "away_team": "Freiburg",
+    "kickoff_utc": "2027-05-15T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83451",
+    "competition": "DE1",
+    "home_team": "Werder Bremen",
+    "away_team": "Schalke 04",
+    "kickoff_utc": "2027-05-15T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83452",
+    "competition": "DE1",
+    "home_team": "Paderborn",
+    "away_team": "Union Berlin",
+    "kickoff_utc": "2027-05-15T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83453",
+    "competition": "DE1",
+    "home_team": "Bayern Munich",
+    "away_team": "Ein Frankfurt",
+    "kickoff_utc": "2027-05-22T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83454",
+    "competition": "DE1",
+    "home_team": "RB Leipzig",
+    "away_team": "Hoffenheim",
+    "kickoff_utc": "2027-05-22T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83455",
+    "competition": "DE1",
+    "home_team": "Freiburg",
+    "away_team": "Dortmund",
+    "kickoff_utc": "2027-05-22T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83456",
+    "competition": "DE1",
+    "home_team": "Augsburg",
+    "away_team": "Hamburg",
+    "kickoff_utc": "2027-05-22T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83457",
+    "competition": "DE1",
+    "home_team": "Mainz",
+    "away_team": "Stuttgart",
+    "kickoff_utc": "2027-05-22T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83458",
+    "competition": "DE1",
+    "home_team": "Union Berlin",
+    "away_team": "M'gladbach",
+    "kickoff_utc": "2027-05-22T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83459",
+    "competition": "DE1",
+    "home_team": "FC Koln",
+    "away_team": "Paderborn",
+    "kickoff_utc": "2027-05-22T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83460",
+    "competition": "DE1",
+    "home_team": "Schalke 04",
+    "away_team": "Leverkusen",
+    "kickoff_utc": "2027-05-22T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  },
+  {
+    "match_id": "openligadb-83461",
+    "competition": "DE1",
+    "home_team": "Elversberg",
+    "away_team": "Werder Bremen",
+    "kickoff_utc": "2027-05-22T13:30:00+00:00",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+    "observed_at": "2026-10-13T01:51:39Z"
+  }
+]

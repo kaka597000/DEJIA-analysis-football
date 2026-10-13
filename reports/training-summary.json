@@ -1,0 +1,25 @@
+{
+  "version": "DE1-POISSON-0.1",
+  "competition": "DE1",
+  "parameters": {
+    "half_life_days": 540,
+    "ridge": 0.03,
+    "iterations": 240,
+    "learning_rate": 1.0,
+    "max_history_days": 1461
+  },
+  "training_cutoff_date": "2026-10-13",
+  "training_last_date": "2026-10-11",
+  "training_matches": 1188,
+  "training_sha256": "131f1a9ef9bbb224210ef3519b88c8ae599d740db90c0a30cede10916e8eac70",
+  "mu_home": 0.4739071434596023,
+  "mu_away": 0.25256792481230494,
+  "training_available_at": "2026-10-13T01:51:39+00:00",
+  "optimizer": {
+    "initial_loss": 1.6512233637996443,
+    "final_loss": 1.460271123721258,
+    "accepted_steps": 102,
+    "monotone": true
+  },
+  "status": "research_baseline_uncalibrated"
+}

@@ -1,0 +1,9 @@
+{
+  "match_id": "openligadb-83203",
+  "competition": "DE1",
+  "home_team": "Ein Frankfurt",
+  "away_team": "FC Koln",
+  "kickoff_utc": "2026-10-16T18:30:00+00:00",
+  "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026",
+  "observed_at": "2026-10-13T01:51:39Z"
+}

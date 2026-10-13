@@ -1,0 +1,161 @@
+{
+  "fixture": {
+    "match_id": "openligadb-83203",
+    "competition": "DE1",
+    "home_team": "Ein Frankfurt",
+    "away_team": "FC Koln",
+    "kickoff_utc": "2026-10-16T18:30:00+00:00",
+    "observed_at": "2026-10-13T01:51:39Z",
+    "source_url": "https://api.openligadb.de/getmatchdata/bl1/2026"
+  },
+  "as_of": "2026-10-13T02:03:42.796020+00:00",
+  "baseline": {
+    "probabilities": {
+      "H": 0.5867311181793368,
+      "D": 0.20052203130979557,
+      "A": 0.21274685051086775
+    },
+    "expected_goals": {
+      "home": 2.2118025809056157,
+      "away": 1.273311397690634
+    },
+    "top_scores": [
+      {
+        "score": "2-1",
+        "probability": 0.09546223151650417
+      },
+      {
+        "score": "1-1",
+        "probability": 0.08632075244022679
+      },
+      {
+        "score": "2-0",
+        "probability": 0.07497163041942537
+      }
+    ],
+    "unseen_teams": [],
+    "probability_status": "uncalibrated_research_estimate"
+  },
+  "evidence": [],
+  "upset": {
+    "version": "DE1-UPSET-RULES-0.1",
+    "status": "uncalibrated_rules",
+    "favorite": "H",
+    "favorite_basis": "poisson_model_only",
+    "model_favorite_nonwin_probability": 0.41326888182066324,
+    "model_underdog_win_probability": 0.21274685051086775,
+    "risk_score": 0,
+    "risk_level": "insufficient_evidence",
+    "signals": [],
+    "counterevidence": [],
+    "signal_families": [],
+    "coverage": 0.0,
+    "missing_dimensions": [
+      "asian",
+      "context",
+      "euro",
+      "funds",
+      "lineup",
+      "news"
+    ],
+    "note": "冷门定义区分热门不胜（含平局）与弱队获胜；规则分数不等于发生概率。无真实资金不能由赔率推断资金。"
+  },
+  "model_version": "DE1-POISSON-0.1",
+  "training_sha256": "131f1a9ef9bbb224210ef3519b88c8ae599d740db90c0a30cede10916e8eac70",
+  "training": {
+    "training_cutoff_date": "2026-10-13",
+    "training_last_date": "2026-10-11",
+    "training_matches": 1188,
+    "training_available_at": "2026-10-13T01:51:39+00:00"
+  },
+  "agents": {
+    "mode": "local_evidence_audit",
+    "external_llm_calls": 0,
+    "rounds": [
+      [
+        {
+          "role": "statistician",
+          "mode": "local_evidence_audit",
+          "status": "analyzed",
+          "probabilities": {
+            "H": 0.5867311181793368,
+            "D": 0.20052203130979557,
+            "A": 0.21274685051086775
+          },
+          "evidence_ids": [],
+          "findings": [
+            "独立德甲泊松基线；λ主=2.212，λ客=1.273"
+          ],
+          "counterarguments": [
+            "球队攻防变化或未见阵容信息可能使历史基线失效。"
+          ],
+          "missing": []
+        },
+        {
+          "role": "tactician",
+          "mode": "local_evidence_audit",
+          "status": "abstained",
+          "probabilities": null,
+          "evidence_ids": [],
+          "findings": [],
+          "counterarguments": [],
+          "missing": [
+            "lineup"
+          ]
+        },
+        {
+          "role": "market_analyst",
+          "mode": "local_evidence_audit",
+          "status": "abstained",
+          "probabilities": null,
+          "evidence_ids": [],
+          "findings": [],
+          "counterarguments": [],
+          "missing": [
+            "asian",
+            "euro",
+            "funds"
+          ]
+        },
+        {
+          "role": "news_analyst",
+          "mode": "local_evidence_audit",
+          "status": "abstained",
+          "probabilities": null,
+          "evidence_ids": [],
+          "findings": [],
+          "counterarguments": [],
+          "missing": [
+            "context",
+            "news"
+          ]
+        },
+        {
+          "role": "risk_assessor",
+          "mode": "local_evidence_audit",
+          "status": "analyzed",
+          "probabilities": null,
+          "evidence_ids": [],
+          "findings": [
+            "冷门模块状态：insufficient_evidence",
+            "缺失证据限制结论；须检查强队失利和平局两条路径。"
+          ],
+          "counterarguments": [
+            "球队攻防变化或未见阵容信息可能使历史基线失效。"
+          ],
+          "missing": []
+        }
+      ]
+    ],
+    "consensus_probabilities": null,
+    "status": "local_only",
+    "note": "五角色本地证据审计，不冒充五个外部大模型；数值预测来自已训练基线。"
+  },
+  "status": "pre_match_research",
+  "limitations": [
+    "统计基线不含xG、阵容、伤停或资金学习权重；定性证据不自动改写基线概率。",
+    "冷门规则分数未校准；多智能体研究共识与基线分别保存。",
+    "历史重建由当前下载的赛果生成，不能冒充当时已存档的真实赛前预测。"
+  ],
+  "run_id": "3790cf55633a208a6112c6e4"
+}
